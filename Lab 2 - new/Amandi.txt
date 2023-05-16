@@ -1,0 +1,5 @@
+TDCJ Number	Link	Last Name	First Name	Date of Birth	Gender	Race	Date Received	County	Date of Offense
+999606	Offender Information	Colone	Joseph	8/13/1978	M	Black	05/09/2017	Jefferson	7/31/2010
+999605	Offender Information	Falk	John	11/19/1966	M	White	03/01/2017	Walker	9/24/2007
+999604	Offender Information	Wells, III	Amos	8/20/1990	M	Black	11/22/2016	Tarrant	07/01/2013
+999603	Offender Information	Brownlow	Charles	9/16/1977	M	Black	5/23/2016	Kaufman	10/28/2013
